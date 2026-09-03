@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0463-island-perimeter](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0463-island-perimeter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
