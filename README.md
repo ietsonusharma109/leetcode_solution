@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0463-island-perimeter](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0463-island-perimeter) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
