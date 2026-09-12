@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0463-island-perimeter](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0665-non-decreasing-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0665-non-decreasing-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Binary Tree
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0344-reverse-string) |
 ## String
