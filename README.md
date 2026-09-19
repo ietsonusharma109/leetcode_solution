@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0120-triangle](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0344-reverse-string) |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0624-maximum-distance-in-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
