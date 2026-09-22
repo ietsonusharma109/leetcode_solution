@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0344-reverse-string) |
