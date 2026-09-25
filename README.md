@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sliding Window
 |  |
