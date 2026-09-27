@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0665-non-decreasing-array) |
 | [0806-number-of-lines-to-write-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0890-find-and-replace-pattern](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0890-find-and-replace-pattern) |
+| [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
 ## Tree
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
