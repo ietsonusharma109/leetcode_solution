@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0611-valid-triangle-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0890-find-and-replace-pattern](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0890-find-and-replace-pattern) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 ## Pigeonhole Principle
 |  |
