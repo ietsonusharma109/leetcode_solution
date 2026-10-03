@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
+| [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0890-find-and-replace-pattern](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0890-find-and-replace-pattern) |
+| [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -178,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
