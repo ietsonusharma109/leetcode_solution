@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0330-patching-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0330-patching-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -172,10 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
