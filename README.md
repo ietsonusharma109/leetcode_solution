@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0890-find-and-replace-pattern](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1043-partition-array-for-maximum-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
 ## Tree
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -199,4 +203,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
