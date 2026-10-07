@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1043-partition-array-for-maximum-sum) |
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0611-valid-triangle-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0463-island-perimeter) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
