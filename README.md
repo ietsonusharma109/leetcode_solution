@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
