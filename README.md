@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0665-non-decreasing-array) |
 | [0806-number-of-lines-to-write-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0890-find-and-replace-pattern](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0890-find-and-replace-pattern](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0344-reverse-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0890-find-and-replace-pattern](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0893-groups-of-special-equivalent-strings) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
