@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1043-partition-array-for-maximum-sum) |
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0890-find-and-replace-pattern](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
