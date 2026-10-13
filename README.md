@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1720-decode-xored-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [1720-decode-xored-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1720-decode-xored-array) |
 ## Greedy
 |  |
 | ------- |
