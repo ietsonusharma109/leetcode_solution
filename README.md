@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0330-patching-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0330-patching-array) |
+| [0384-shuffle-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0384-shuffle-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0202-happy-number) |
+| [0384-shuffle-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0384-shuffle-an-array) |
 | [0441-arranging-coins](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
@@ -248,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
