@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1043-partition-array-for-maximum-sum) |
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0330-patching-array) |
 | [0611-valid-triangle-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0624-maximum-distance-in-arrays) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 ## Backtracking
 |  |
