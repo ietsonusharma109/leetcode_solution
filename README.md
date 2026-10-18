@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0932-beautiful-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0624-maximum-distance-in-arrays) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Backtracking
 |  |
 | ------- |
