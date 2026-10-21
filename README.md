@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0890-find-and-replace-pattern](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0893-groups-of-special-equivalent-strings) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
