@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1720-decode-xored-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1720-decode-xored-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
