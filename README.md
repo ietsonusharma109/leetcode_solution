@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1720-decode-xored-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
