@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2747-count-zero-request-servers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2747-count-zero-request-servers) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/0912-sort-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
+| [1882-process-tasks-using-servers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
