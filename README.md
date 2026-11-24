@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2409-count-days-spent-together](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
@@ -419,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ietsonusharma109/leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ietsonusharma109/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
